@@ -79,7 +79,7 @@ Continuously learning and exploring advanced topics like:
 
 ## 💼 Experience  
 
-### 🔐 Legal Research Intern | IoT Security Research  
+### 🔐 [Legal Research Intern](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_internship-internshipcompletion-gurughasidasvishwavidyalaya-activity-7421493024767193089-Fzui/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ) | IoT Security Research  
 📍 Guru Ghasidas University, Bilaspur  
 🗓️ Jan 2025 – Jun 2025  
 - 🔍 Conducted in-depth research on **AI-based IoT security frameworks**  
@@ -88,18 +88,16 @@ Continuously learning and exploring advanced topics like:
 - 📄 Contributed to research documentation and implementation concepts for **secure IoT environments**  
 - 🚀 Gained exposure to **AI + Cybersecurity + Research methodologies**   
 
----
 
-### 🐍 Python Programming Intern  
+### 🐍 [Python Programming Intern](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_motioncut-aicte-python-activity-7247916020441440256-ZB0p/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ)
 📍 MotionCut (AICTE)  
 🗓️ Sep 2024 – Oct 2024  
 - 💻 Developed multiple **Python-based applications and problem-solving scripts**  
 - ⚡ Strengthened understanding of **algorithms, logic building, and clean coding practices**  
 - 🧩 Solved real-world computational problems using **efficient Python solutions**   
 
----
 
-### 📊 Data Science Intern  
+### 📊 [Data Science Intern](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_oasisinfobyte-datascience-activity-7247915511710130176-Iq3h/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ)
 📍 Oasis Infobyte  
 🗓️ Aug 2024 – Sep 2024  
 - 📈 Built **machine learning models** for classification and prediction tasks  
@@ -108,9 +106,8 @@ Continuously learning and exploring advanced topics like:
 - 🎯 Improved model accuracy through **hyperparameter tuning and evaluation metrics**  
 - 🧠 Gained hands-on experience with **real-world datasets and ML workflows**   
 
----
 
-### 📈 Data Analysis Intern  
+### 📈 [Data Analysis Intern](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_cognifyztechnologies-dataanalysis-python-activity-7236443424441163778-66W_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ) 
 📍 Cognifyz  
 🗓️ Jul 2024 – Aug 2024  
 - 📊 Conducted **data preprocessing and statistical analysis** on structured datasets  
@@ -118,9 +115,8 @@ Continuously learning and exploring advanced topics like:
 - 🔍 Identified trends and patterns to support **data-driven decision making**  
 - ⚙️ Worked with tools and techniques for **data transformation and reporting** 
 
----
 
-### 🤖 Data Science Intern  
+### 🤖 [Data Science Intern](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_datascience-internship-python-activity-7223560118280372224-0Quc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ) 
 📍 CodSoft  
 🗓️ Jun 2024 – Jul 2024  
 - 🤖 Developed **machine learning models using real-world datasets**  
@@ -139,19 +135,23 @@ Continuously learning and exploring advanced topics like:
   - 📚 AI-generated summaries  
   - 🤖 Intelligent chatbot  
   - 📅 Personalized study planner  
-  - 🖼️ Visual question solving (OCR + AI)  
+  - 🖼️ Visual question solving (OCR + AI)
+ 
+### [CodeBidz Auction Website](https://github.com/yuvraj-25D/CodeBidz-Auction-Websiite)
+🗓️ March 2026
+- A real time web development program
+-	A real-time auction platform for interactive bidding
+-	Provides live bid updates and notifications
 
----
 
-### 🔐 Enhancing IoT Security Through Emotion Detection  
+### 🔐 Enhancing IoT Security Through Emotion Detection(https://github.com/SharmaJi-29/Enhancing-IoT-Security-by-Using-Emotion-Detection)
 🗓️ Jan 2025 – Jul 2025  
 - 🔍 Designed an AI system to detect **human emotions for anomaly and threat identification**  
 - 🔐 Applied **computer vision and deep learning** for real-time surveillance analysis  
 - ⚙️ Proposed a secure framework combining **AI + IoT for intelligent intrusion prevention**   
 
----
 
-### 📝 Automatic Answer Checker  
+### 📝 Automatic Answer Checker(https://github.com/SharmaJi-29/Automatic-Answer-Checker)
 🗓️ Jul 2024 – Dec 2024  
 - 🖼️ Built an **OCR-based system** to evaluate handwritten answer sheets automatically  
 - 🧠 Used **NLP techniques** to compare answers and generate scoring logic  
@@ -159,17 +159,30 @@ Continuously learning and exploring advanced topics like:
 
 ---
 
-## 🎤 Conferences & Publications  
+## 🎤 Conferences & Achivements  
 
-### 🏆 ICMSCI-2026 | University of Delhi  
+### 🏆 [ICMSCI-2026](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_icmsci2026-artificialintelligence-machinelearning-activity-7439347648127647744-HFwX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ) | University of Delhi  
 🗓️ Feb 22, 2026  
 
 - Presented research paper:  
   **“AI-Powered Academic Assistant”**  
 - Demonstrated real-world applications of **AI in education systems**  
 - Showcased innovation in **intelligent learning technologies**
-- Gained recognition for innovation and practical implementation of AI
+- Gained recognition for innovation and practical implementation of AI 
 
+### 🏆 [Python](https://www.hackerrank.com/certificates/95beec152506) | HackerRank
+🗓️ June 7, 2024
+- Demonstrated proficiency in core Python concepts and syntax
+- Applied problem-solving using Python programming
+- Strengthened understanding of loops, functions, and data structures
+- Solved coding challenges with efficient logic
+
+### 🏆 [Problem Solving](https://www.hackerrank.com/certificates/850324145657) | HackerRank
+🗓️ March 21, 2026
+- Demonstrated knowledge of core Data Structures (arrays, strings)
+- Applied fundamental algorithms like sorting and searching
+- Strengthened logical thinking and analytical problem-solving skills
+- Solved coding challenges with optimized approaches
 ---
 
 ## 🎓 Education  
@@ -188,12 +201,11 @@ JNV Bilaspur – 77.4%
 
 ## 🏆 Certifications  
 
-- ☁️ Oracle Cloud – Data Science Professional Certification  
-- 👁️ NPTEL – Computer Vision  
-- 🧠 Internshala – Machine Learning (**Top Performer – 92%**)  
-- 📊 Cisco – Data Analytics Essentials  
-- 💼 Industry Simulations – BCG, Accenture, Tata, Goldman Sachs  
-- 🐍 HackerRank – Python  
+- ☁️ Oracle Cloud – [Data Science Professional Certification](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_oraclecertified-oraclecloud-oci-activity-7421495356301094912-Fhh_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ)
+- 👁️ NPTEL – [Computer Vision](https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs143/Course/NPTEL25CS143S125300027710849752.pdf)
+- 🧠 Internshala – [Machine Learning](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_internshala-machinelearning-python-activity-7245466417028841473-_1z6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ) (**Top Performer – 92%**)  
+- 📊 Cisco – [Data Analytics Essentials](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_dataanalytics-cisconetworkingacademy-activity-7270031720865763331-5Aov/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ)  
+- 💼 Industry Simulations – [BCG](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_forage-certificate-activity-7236440218134790146-VdrH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ), [Accenture](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_im-happy-to-share-that-ive-obtained-a-new-activity-7212168851482927104-I5vv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ), [Tata](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_im-happy-to-share-that-ive-obtained-a-new-activity-7212168564894572544-GldT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ), [Goldman Sachs](https://www.linkedin.com/posts/mrityunjay-sharma-36a401266_forage-certificate-activity-7225205673381261312-xQ1h/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEzGMIBo0Q80UsQ36jzU1qexcnl6jkHhaQ)    
 
 ---
 
