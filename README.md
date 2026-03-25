@@ -217,10 +217,3 @@ JNV Bilaspur – 77.4%
 
 ---
 
-## 🤝 Let's Build Something Amazing  
-
-If you're interested in collaboration, internships, or AI research:  
-
-📩 **Let’s connect and create impact together!**
-
----
